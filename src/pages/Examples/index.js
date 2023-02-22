@@ -10,8 +10,9 @@ const Examples = () => {
             <h1>Examples</h1>
             <section className="container">
                 <div className="row">
-                    {examples.map((example) => (
+                    {examples.map((example, index) => (
                         <ExampleCard
+                            key={`example${index}`}
                             img={example.img}
                             title={example.title}
                             text={example.text}
