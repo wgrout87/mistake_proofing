@@ -10,6 +10,7 @@ const Examples = () => {
             <section className="container">
                 <div className="row">
                     <ExampleCard
+                        img={"movingShelves"}
                         title={"Moving Shelves"}
                         text={"The library at Southern Methodist University has a moving shelf system to increase the space utilization. I used to worry that some one would come along and start cranking the shelves and smash me. Luckily, the shelf system designers knew that I would have this fear and installed floor sensors that keep the shelves from moving while someone is stepping on it."}
                     />
