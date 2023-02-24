@@ -1,6 +1,6 @@
 import React from "react";
 
-import ExampleCard from "../../components/Card";
+import ExampleCard from "../../components/ExampleCard";
 
 import examples from "./examples";
 
