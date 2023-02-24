@@ -6,7 +6,7 @@ const Header = () => {
         <header className="bg-dark text-light d-flex flex-row">
             <div className="d-flex flex-row flex-wrap justify-content-lg-between w-100">
                 <Link className="navbar-brand text-decoration-none" to="/">
-                    <h1 className="mx-4 my-3 text-start">
+                    <h1 className="mx-4 my-3 text-start text-wrap">
                         John Grout's Mistake-Proofing Center
                     </h1>
                 </Link>
