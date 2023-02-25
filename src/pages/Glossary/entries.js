@@ -59,14 +59,126 @@ var entries = [
     {
         letter: "B",
         words: [
-            {
-                word: "ACTIVE ERROR",
-                definition: "An active error has immediate consequences. Compare to latent errors."
-            },
-            {
-                word: "ALTOGETHER METHODS",
-                definition: "Method used to insure that all parts of an operation have been completed. See fixed value method."
-            },
+        ]
+    },
+    {
+        letter: "C",
+        words: [
+        ]
+    },
+    {
+        letter: "D",
+        words: [
+        ]
+    },
+    {
+        letter: "E",
+        words: [
+        ]
+    },
+    {
+        letter: "F",
+        words: [
+        ]
+    },
+    {
+        letter: "G",
+        words: [
+        ]
+    },
+    {
+        letter: "H",
+        words: [
+        ]
+    },
+    {
+        letter: "I",
+        words: [
+        ]
+    },
+    {
+        letter: "J",
+        words: [
+        ]
+    },
+    {
+        letter: "K",
+        words: [
+        ]
+    },
+    {
+        letter: "L",
+        words: [
+        ]
+    },
+    {
+        letter: "M",
+        words: [
+        ]
+    },
+    {
+        letter: "N",
+        words: [
+        ]
+    },
+    {
+        letter: "O",
+        words: [
+        ]
+    },
+    {
+        letter: "P",
+        words: [
+        ]
+    },
+    {
+        letter: "Q",
+        words: [
+        ]
+    },
+    {
+        letter: "R",
+        words: [
+        ]
+    },
+    {
+        letter: "S",
+        words: [
+        ]
+    },
+    {
+        letter: "T",
+        words: [
+        ]
+    },
+    {
+        letter: "U",
+        words: [
+        ]
+    },
+    {
+        letter: "V",
+        words: [
+        ]
+    },
+    {
+        letter: "W",
+        words: [
+        ]
+    },
+    {
+        letter: "X",
+        words: [
+        ]
+    },
+    {
+        letter: "Y",
+        words: [
+        ]
+    },
+    {
+        letter: "Z",
+        words: [
         ]
     },
 ]
