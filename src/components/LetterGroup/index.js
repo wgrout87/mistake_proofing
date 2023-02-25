@@ -9,7 +9,7 @@ const LetterGroup = ({ letter, words }) => {
                 {words.map((entry, index) => (
                     <GlossaryEntry
                         key={`entry${index}`}
-                        word={entry.word}
+                        word={entry.word.toUpperCase()}
                         definition={entry.definition}
                     />
                 ))}
