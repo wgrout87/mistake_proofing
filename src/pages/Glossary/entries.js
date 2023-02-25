@@ -59,126 +59,226 @@ var entries = [
     {
         letter: "B",
         words: [
+            {
+                word: "baka-yoke",
+                definition: "precursor to poka-yoke. It is translated from Japanese as fool-proofing. Shingo discontinued its use when a worker took exception to the implication that she was a fool."
+            }
         ]
     },
     {
         letter: "C",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "D",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "E",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "F",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "G",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "H",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "I",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "J",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "K",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "L",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "M",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "N",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "O",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "P",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "Q",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "R",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "S",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "T",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "U",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "V",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "W",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "X",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "Y",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
     {
         letter: "Z",
         words: [
+            {
+                word: "",
+                definition: ""
+            }
         ]
     },
 ]

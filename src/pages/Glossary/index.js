@@ -7,7 +7,6 @@ import "./style.css";
 import { CaretUpFill } from "react-bootstrap-icons";
 
 const Glossary = () => {
-    console.log(CaretUpFill);
     return (
         <main className="d-flex flex-column">
             <h1>Glossary</h1>
