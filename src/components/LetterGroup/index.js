@@ -1,12 +1,12 @@
 import React from "react";
 import GlossaryEntry from "../../components/GlossaryEntry";
 
-const LetterGroup = (letter, entries) => {
+const LetterGroup = ({ letter, words }) => {
     return (
         <main className="d-flex flex-column">
             <h2>{letter}</h2>
             <div className="container">
-                {entries.map((entry, index) => (
+                {words.map((entry, index) => (
                     <GlossaryEntry
                         key={`entry${index}`}
                         word={entry.word}
