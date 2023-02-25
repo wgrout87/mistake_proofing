@@ -4,7 +4,7 @@ import GlossaryEntry from "../../components/GlossaryEntry";
 const LetterGroup = ({ letter, words }) => {
     return (
         <main className="d-flex flex-column">
-            <h2>{letter}</h2>
+            <h2 className="w-75 bg-dark text-light rounded mx-auto" id={letter}>{letter}</h2>
             <div className="container">
                 {words.map((entry, index) => (
                     <GlossaryEntry
