@@ -130,60 +130,44 @@ var entries = [
         letter: "D",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "data-driven errors",
+                definition: "A type of slip identified by Norman where an action is triggered by the arrival of sensory data. You get out your credit card before placing a catalog order by phone. You accidentally start dialing your credit card number instead of the phone number."
             },
             {
-                word: "",
-                definition: ""
+                word: "decouplers",
+                definition: "Inventory holding locations in automated manufacturing cells, usually hold only a few work pieces at a time. Decouplers can be used for automated inspection. Time that would otherwise be idle is used to perform quality checks."
             },
             {
-                word: "",
-                definition: ""
+                word: "defect",
+                definition: "Process outputs that do not function properly or do not meet accepted standards or expectations. Often defects are those items that fall outside the tolerance or specification limits."
             },
             {
-                word: "",
-                definition: ""
+                word: "description errors",
+                definition: "A type of Slip identified by Norman where the intended action has much in common with others that are possible. The mind's description of the intended action is not precise enough. This slip usually is manifest as performing the right task on the wrong object like opening the cupboard door and looking for the carton of milk."
             },
             {
-                word: "",
-                definition: ""
+                word: "design-for-manufacturability and assembly",
+                definition: "A set of tools or practices intended to help engineers or designers create product designs that are more economically fabricated and assembled. Hinckley shows that use of design-for-manufacturability and assembly can be linked to improved quality. See also producibility triad."
             },
             {
-                word: "",
-                definition: ""
+                word: "detecting errors",
+                definition: "Sellen has determined that there are three general mechanisms for detecting errors -- action-based, outcome-based, and limiting functions. Reason (1990) provides a fourth category, not mentioned by Sellen, detection by others."
             },
             {
-                word: "",
-                definition: ""
+                word: "detection by others",
+                definition: "Reason (1990) provides a fourth category, not mentioned by Sellen-- detection by others. This corresponds to Shingo's successive-checks."
             },
             {
-                word: "",
-                definition: ""
+                word: "deterministic manufacturing",
+                definition: "Barkman's approach to process control. The usage of deterministic here is not the opposite of stochastic. Rather deterministic is the adjective meaning \"of determinism,\" or of \"the doctrine that everything is entirely determined by a sequence of causes\" (Webster's Dictionary). An approach to manufacturing based on the belief that \"there is a specific reason or set of reasons for the condition of the quality of the output of a process.\""
             },
             {
-                word: "",
-                definition: ""
+                word: "DFMA",
+                definition: "See design-for-manufacturability and assembly"
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
+                word: "double-capture",
+                definition: "One of six common mechanisms for producing slips identified by Reason. The mechanism where attention is captured by some distraction and some triggering cue is missed, and the activity is captured by the most active schema (usually the most commonly used alternative leading away from the point where the cue was overlooked). See capture errors."
             },
         ]
     },
