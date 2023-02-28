@@ -175,60 +175,52 @@ var entries = [
         letter: "E",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "economic design of control chart",
+                definition: "The optimization problem used to determine the sample size, sample interval, and control limits that minimize the total relevant quality costs."
             },
             {
-                word: "",
-                definition: ""
+                word: "environmental factors",
+                definition: "Aspects of job design that influence the frequency of human error. These factors can include ergonomic factors, lighting, temperature, work pace, fatigue, etc."
             },
             {
-                word: "",
-                definition: ""
+                word: "equipment not set up properly",
+                definition: "number 9 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
+                word: "ergonomics",
+                definition: "\"The systematic application of knowledge about the pyschological, physical, and social attributes of human beings in the design and use of all things which affect a person's working conditions: equipment and machinery, the work environment and layout, the job itself, training and the organization of work.\" (Humansystems Inc)."
             },
             {
-                word: "",
-                definition: ""
+                word: "error due to misunderstanding",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) 10 types of errors. When the workers jump to wrong conclusion because they are not familiar with the situation."
             },
             {
-                word: "",
-                definition: ""
+                word: "error setting up workpieces",
+                definition: "Number 3 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
+                word: "error tolerant",
+                definition: "A system where the results of committing errors are relatively benign."
             },
             {
-                word: "",
-                definition: ""
+                word: "error",
+                definition: "The failure of planned actions to achieve their desired goal. The execution of a prohibited action, the failure to correctly perform a required action or the misinterpretation of information essential to the correct execution of an action. These are often categorized as slips and mistakes depending on whether the intent was correct. See Slips and mistakes."
             },
             {
-                word: "",
-                definition: ""
+                word: "errors due to lack of standards",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) 10 types of errors. Errors that occur because no instructions or standards exist."
             },
             {
-                word: "",
-                definition: ""
+                word: "errors due to slowness",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) 10 types of errors. Actions are slowed down due to delays in judgment which result in error."
             },
             {
-                word: "",
-                definition: ""
+                word: "errors in identification",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) 10 types of errors. Situation is misjudged either because assessment was performed too quickly or from too far away"
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
+                word: "errors made by amateurs",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) 10 types of errors. Errors that result from lack of experience."
             },
         ]
     },
