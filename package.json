@@ -43,6 +43,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "http://wgrout87.github.io/mistake_proofing"
+  }
 }
