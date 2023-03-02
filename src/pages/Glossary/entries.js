@@ -373,61 +373,17 @@ var entries = [
         letter: "K",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "knowledge-based cognitive control",
+                definition: "If there are no rules which apply, the person switches to pure logical deduction based on theoretical knowledge of how the system behaves. This is called knowledge-based cognitive control, and it requires substantial cognitive effort."
             },
             {
-                word: "",
-                definition: ""
+                word: "knowledge in the head",
+                definition: "Information that must be retain in memory in order to correctly complete a task. Tasks requiring more knowledge in the head are more error-prone."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "knowledge in the world",
+                definition: "Information that is embedded, encoded or implicitly resides in the components of a task. The components and steps of a task communicate all the information needed to perform the task correctly."
+            }
         ]
     },
     {
