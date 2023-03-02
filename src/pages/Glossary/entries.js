@@ -390,61 +390,45 @@ var entries = [
         letter: "L",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "latent errors",
+                definition: "Errors that are made for which the consequences do not occur immediately. Latent errors, once made, sit idle in the system until conditions allow them to be manifest. These errors tend to be hard to predict or prevent. Compare to active errors."
             },
             {
-                word: "",
-                definition: ""
+                word: "Level 1 device",
+                definition: "A device that prevents a mistake or eliminates the error"
             },
             {
-                word: "",
-                definition: ""
+                word: "Level 2 device",
+                definition: "A device that detects a mistake or error after it occurs, but before it turns into a defect (see source inspection)"
             },
             {
-                word: "",
-                definition: ""
+                word: "Level 3 device",
+                definition: "A device that detects a defect (see self-check)"
             },
             {
-                word: "",
-                definition: ""
+                word: "limit switches",
+                definition: "One of Shingo's five basic classes of poka yoke devices. A small electronic switch that closes when it is depressed. They are typically used to insure that items are in the correct position."
             },
             {
-                word: "",
-                definition: ""
+                word: "limiting functions error detection",
+                definition: "Sellen has determined that there are three general mechanisms for detecting errors -- action-based, outcome-based, and limiting functions. The last mechanisms, limiting functions, cause error detection by preventing further action in the presence of an error. Limiting functions are the same as Shingo's control poka-yokes (1985). A lengthy discussion of limiting functions can be found in Norman (1988), although he refers to them as \"forcing functions\"."
             },
             {
-                word: "",
-                definition: ""
+                word: "lockins",
+                definition: "One of Norman's forcing functions that avoids premature termination of a process"
             },
             {
-                word: "",
-                definition: ""
+                word: "lockouts",
+                definition: "One of Norman's forcing functions that prevents an event from occurring"
             },
             {
-                word: "",
-                definition: ""
+                word: "logical constraint",
+                definition: "Putting knowledge in the world using designs that are based on making sense of relationships"
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "loss-of-activation errors",
+                definition: "A type of slip identified by Norman where one action is executed but the goal of the action or a subsequent action is forgotten. For example, you intentionally walk to the garage to get a tool but by the time you get there you have forgotten which tool you needed."
+            }
         ]
     },
     {
