@@ -315,61 +315,41 @@ var entries = [
         letter: "I",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "inadvertent errors",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) error types. An absentminded error that occurs without the individual knowing how it happened."
             },
             {
-                word: "",
-                definition: ""
+                word: "information poka-yokes",
+                definition: "Poka yokes designed to ensure that information required in the process is available at the correct time and place, and that it stands out against a noisy background. (Chase and Stewart)"
             },
             {
-                word: "",
-                definition: ""
+                word: "informative inspection",
+                definition: "Inspection uses data gathered from production to understand and control the process in the future. Statistical process control is one type of informative inspection. Shingo introduced two additional types of informative inspection: successive checks and self-checks."
             },
             {
-                word: "",
-                definition: ""
+                word: "inspection cost",
+                definition: "Those costs, both fixed (invariant in sample size) and variable(linearly related to sample size), arising directly from taking a sample and calculating any appropriate statistics."
             },
             {
-                word: "",
-                definition: ""
+                word: "inspection interval",
+                definition: "The duration between inspections expressed in units of time or quantity produced."
             },
             {
-                word: "",
-                definition: ""
+                word: "intention",
+                definition: "A determination to act in a certain way (Webster)"
             },
             {
-                word: "",
-                definition: ""
+                word: "intentional errors",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) error types. wantonly deviating from proper or acceptable actions, processes or procedures. Worse than a \"willful error\" because it implies malicious intent, crimes and sabotage being typical."
             },
             {
-                word: "",
-                definition: ""
+                word: "interference errors",
+                definition: "One of six common mechanisms for producing slips identified by Reason. occur when multiple active schemas become confused."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "interlock",
+                definition: "A device or set of devices that insures the proper sequence of actions occur. Most cars have interlocks to insure certain aspects of proper operation. The key must be inserted before the steering wheel will turn or the transmission shifted into gear. The key cannot be removed until the car is put in park."
+            }
         ]
     },
     {
