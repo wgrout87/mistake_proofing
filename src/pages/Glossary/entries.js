@@ -493,61 +493,17 @@ var entries = [
         letter: "O",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "omissions following interruptions",
+                definition: "One of six common mechanisms for producing slips identified by Reason. Result when the schema is interrupted by an outside influence, and either fails to be completed, or resumes action sometime later in the process."
             },
             {
-                word: "",
-                definition: ""
+                word: "omitted processing",
+                definition: "Number 1 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "outcome-based error detection",
+                definition: "Sellen has determined that there are three general mechanisms for detecting errors -- action-based, outcome-based, and limiting functions. Outcome-based detection relies on a comparison of the manifested outcome with the expected outcome or with familiar error patterns. Aiding the search for familiar error patterns seems to be the primary strategy behind Shingo's self-check poka-yoke devices."
+            }
         ]
     },
     {
