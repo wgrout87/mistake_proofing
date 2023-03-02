@@ -228,40 +228,40 @@ var entries = [
         letter: "F",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "fail-safing",
+                definition: "1. Synonymous with mistake-proofing or 2. \"A system designed so that if anything goes wrong, it immediately becomes impossible for the negative impact to continue\" (Royal)."
             },
             {
-                word: "",
-                definition: ""
+                word: "failure mode and effects analysis",
+                definition: "A systematic review of potential product or process problems and their effect on the product or process. Failure mode and effects analysis is normal done on a form which also facilitates the prioritization and management of remedial actions to reduce the occurrence of failure modes or minimize their effects."
             },
             {
-                word: "",
-                definition: ""
+                word: "fault tree analysis",
+                definition: "A graphical management tool for describing the cause and effect relationships that result in major failures. The fault or major failure being analyzed is identified as the \"top event.\" All of the possible causes of the top event are identified in a tree using \"or\" nodes for independent causes and \"and\" nodes for multiple causes that must exist concurrently for a failure to occur."
             },
             {
-                word: "",
-                definition: ""
+                word: "fixed value methods",
+                definition: "Inspections used to determine if a specified number of motions occur a predetermined number of times."
             },
             {
-                word: "",
-                definition: ""
+                word: "fixtures",
+                definition: "A device that holds the workpiece securely in the correct position relative to the tool in a manufacturing process but does not guide the tool (as opposed to a jig)."
             },
             {
-                word: "",
-                definition: ""
+                word: "FMEA",
+                definition: "See failure mode effect analysis"
             },
             {
-                word: "",
-                definition: ""
+                word: "fool proofing",
+                definition: "A pejorative term occasionally used as a synonym for mistake-proofing. See also baka-yoke."
             },
             {
-                word: "",
-                definition: ""
+                word: "forcing functions",
+                definition: "Term used by Norman meaning a physical constraints that insures correct actions occur or that restrict actions so that failure at one stage prevents the next process step from occurring."
             },
             {
-                word: "",
-                definition: ""
+                word: "forgetfulness",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) error types. Errors that result from not concentrating and forgetting things."
             },
             {
                 word: "",
