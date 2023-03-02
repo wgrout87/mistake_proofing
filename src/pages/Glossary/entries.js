@@ -484,61 +484,9 @@ var entries = [
         letter: "N",
         words: [
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "nonconformity",
+                definition: "Some aspect of a product that does not conform to its specifications"
+            }
         ]
     },
     {
