@@ -262,88 +262,36 @@ var entries = [
             {
                 word: "forgetfulness",
                 definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) error types. Errors that result from not concentrating and forgetting things."
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+            }
         ]
     },
     {
         letter: "G",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "gauge",
+                definition: "A measurement device for determining the dimension of a workpiece"
             },
             {
-                word: "",
-                definition: ""
+                word: "GEMS",
+                definition: "See generic error modeling system"
             },
             {
-                word: "",
-                definition: ""
+                word: "generic error modeling system",
+                definition: "Reason has built on the SRK framework, collecting different mechanisms from the literature (including the ATS framework) and assigning them to the appropriate cognitive levels. He refers to this enhanced framework as a generic error modeling system (GEMS). GEMS is a more general description of the cognitive black box, which can be used to address the mechanisms of both slips and mistakes. (Stewart)"
             },
             {
-                word: "",
-                definition: ""
+                word: "go/no-go gauges",
+                definition: "A gauge that provides categorical data about whether one or more dimension of a workpiece is within specification limits."
             },
             {
-                word: "",
-                definition: ""
+                word: "grouping poka-yokes",
+                definition: "Devices designed to determine when objects have been omitted or when extra objects have been included. See fixed-value methods."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "guide pins",
+                definition: "One of Shingo's five basic classes of poka yoke devices"
+            }
         ]
     },
     {
