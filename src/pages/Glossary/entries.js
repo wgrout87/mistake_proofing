@@ -356,61 +356,17 @@ var entries = [
         letter: "J",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "jidoka",
+                definition: "A Japanese term that can be translated two ways: 1) automation \"improvements in machinery that serve to reduce the number of workers\" and 2) autonomation, see definition above. (Monden)"
             },
             {
-                word: "",
-                definition: ""
+                word: "jig",
+                definition: "A device that holds the workpiece securely in the correct positions and has the capability of guiding the tool during a manufacturing operation."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "judgment inspection",
+                definition: "Inspects process output and separates the defects from the acceptable products. Shingo points out that judgment inspection is not an effective quality management approach."
+            }
         ]
     },
     {
