@@ -298,61 +298,17 @@ var entries = [
         letter: "H",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "HRA",
+                definition: "See human reliability assessment"
             },
             {
-                word: "",
-                definition: ""
+                word: "human factors",
+                definition: "the characteristics of human beings that are applicable to the design of systems and devices of all kinds. It furthers serious consideration of knowledge about the assignment of appropriate functions for humans and machines, whether people serve as operators, maintainers, or users in the system. And, it advocates systematic use of such knowledge to achieve compatibility in the design of interactive systems of people, machines, and environments to ensure their effectiveness, safety, and ease of performance."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "human reliability assessment",
+                definition: "similar to the engineering technique of probabilistic risk assessment. A given design is evaluated to determine some probability of human failure. The final approach focuses on employee training. Operators can be taught about error theory allowing them to identify circumstances where they are likely to be error prone. They can also be trained in better diagnostic procedures to increase efficiency and accuracy of trouble-shooting activities. And, simulators can be employed to allow operators to learn from errors made \"off-line.\" (Stewart)"
+            }
         ]
     },
     {
