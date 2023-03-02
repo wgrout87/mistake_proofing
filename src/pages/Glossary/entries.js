@@ -435,61 +435,49 @@ var entries = [
         letter: "M",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "measurement control charts",
+                definition: "Control charts that track data that is quantitative, as opposed to attribute data. Measurement control charts include mean (x-bar) charts, range (R) charts, standard deviation (s) charts."
             },
             {
-                word: "",
-                definition: ""
+                word: "misoperation",
+                definition: "Number 7 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
+                word: "missing parts",
+                definition: "Number 4 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
+                word: "mistake-proofing",
+                definition: "Improving processes or designs to prevent mistakes from being made or to make the mistake obvious at a glance. Error-proofing, ZQC, or poka-yoke can be used as synonyms."
             },
             {
-                word: "",
-                definition: ""
+                word: "mistake detection",
+                definition: "Involves discovering the occurrence of defects. This concept corresponds to Shingo's self-checks and successive checks. One of four classes of mistake-proofing proposed by Tsuda."
             },
             {
-                word: "",
-                definition: ""
+                word: "mistake prevention",
+                definition: "The elimination of the possiblility of making a mistake. Shingo's source inspection is mistake prevention. One of four classes of mistake-proofing proposed by Tsuda."
             },
             {
-                word: "",
-                definition: ""
+                word: "mistake prevention in the work environment",
+                definition: "Avoiding ambiguity in the environment. This would include process simplification, good housekeeping, and quality and safety training. One of four classes of mistake-proofing proposed by Tsuda."
             },
             {
-                word: "",
-                definition: ""
+                word: "mistakes",
+                definition: "1. (strict definition) conscious deliberation that leads to selecting the wrong intention. 2. (common definition) synonym for error. For example, the term mistake-proofing uses the common definition since mistake-proofing is used more to prevent slips than mistakes (using strict definition)"
             },
             {
-                word: "",
-                definition: ""
+                word: "mistimed checks by the conscious mind",
+                definition: "A common mechanisms for producing slips identified by Reason. progress checks made mid-schema interrupts the schema, and if the amount of progress that has been made is not clear, it may be resumed later in the process (resulting in an omission) or earlier in the process (resulting in a repetition). (Stewart)"
             },
             {
-                word: "",
-                definition: ""
+                word: "mode errors",
+                definition: "A types of slip identified by Norman that occurs because the same controls are used differently in different modes of operation. The error occurs when an action that would be correct in one mode is executed while unwittingly in another mode. For example, making corrections in electronic text by typing over existing text when you intended for the existing text to be pushed out to make room for your typing."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "motion step methods",
+                definition: "When abnormalities are detected by checking that standard predetermined motions are executed correctly. See also sequencing poka-yokes."
+            }
         ]
     },
     {
