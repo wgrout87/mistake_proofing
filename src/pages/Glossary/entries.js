@@ -510,61 +510,53 @@ var entries = [
         letter: "P",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "perceptual confusion",
+                definition: "One of six common mechanisms for producing slips identified by Reason. It occurs when a schema acts on a similar, but inappropriate object. Objects which are similar in appearance, location, or function may be used erroneously by the schema. Examples include putting tea in the coffee machine. (Stewart)"
             },
             {
-                word: "",
-                definition: ""
+                word: "physical constraint",
+                definition: "Putting knowledge in the world using designs that rely on the shape and size of objects to control their relationship"
             },
             {
-                word: "",
-                definition: ""
+                word: "physical poka-yokes",
+                definition: "Synonym for Shingo's contact methods"
             },
             {
-                word: "",
-                definition: ""
+                word: "poka-yoke",
+                definition: "Poka is Japanese for \"inadvertent mistake\". Yokeru is Japanese for \"to avoid.\" It is often used as a synonym for ZQC, error-proofing, or mistake-proofing."
             },
             {
-                word: "",
-                definition: ""
+                word: "poka-yoke devices",
+                definition: "Mechanisms that either prevent a mistake from being made or make the mistake obvious at a glance."
             },
             {
-                word: "",
-                definition: ""
+                word: "poka yokay",
+                definition: "Alternate transliteration of poka-yoke used by Bandyopadhyay (1993)"
             },
             {
-                word: "",
-                definition: ""
+                word: "preemptive process inspection",
+                definition: "Synonym for source inspection. Source inspections are preemptive because they discover errors before defects occur or prevent errors from happening. They are also inspections of the process not the inspection of products."
             },
             {
-                word: "",
-                definition: ""
+                word: "preventing the influence of mistakes",
+                definition: "Allowing the mistake to occur but limiting the consequences. One of four classes of mistake-proofing proposed by Tsuda. Tsuda uses antilock braking systems as an example. The error in using the brakes is pressing too hard on the brake pedal causing a skid. Antilock brakes allow the brake to be pressed hard without initiating a skid."
             },
             {
-                word: "",
-                definition: ""
+                word: "process capability",
+                definition: "An assessment of the ability of a process to consistently produce outputs that conform to specifications"
             },
             {
-                word: "",
-                definition: ""
+                word: "processing errors",
+                definition: "Number 2 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
+                word: "processing wrong workpiece",
+                definition: "Number 6 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "producibility triad",
+                definition: "Three classes of defect sources: variation, mistakes, and complexity. statistical process control deals with variation. use of poka yoke to avoid and eliminate mistakes. the use of design-for-assembly methodologies for reducing complexity"
+            }
         ]
     },
     {
