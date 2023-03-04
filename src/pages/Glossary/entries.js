@@ -569,61 +569,17 @@ var entries = [
         letter: "R",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "reduced intentionality",
+                definition: "One of six common mechanisms for producing slips identified by Reason. refers to the mechanism where the schema is activated, but some delay intervenes before it is triggered. By the time the triggering cue occurs, the schema has lost activation, and the intention has been forgotten."
             },
             {
-                word: "",
-                definition: ""
+                word: "regulatory function",
+                definition: "A warning, notification, or cue to the worker that a process parameter or a product attribute is incorrect. See warning methods, and control methods."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "rule-based cognitive control",
+                definition: "When faced with a more unusual situation or problem, people will look for familiar patterns for which they have stored rules about how to respond. This is called rule-based cognitive control, and generally requires little cognitive effort. Readers familiar with expert systems will perceive striking similarities to rule-based cognitive control. This is due to a shared pedigree. (Stewart)"
+            }
         ]
     },
     {
