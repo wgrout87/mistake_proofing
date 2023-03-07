@@ -5,7 +5,6 @@ import { UPDATE_PAGE } from "../../utils/actions";
 
 const Header = () => {
     const [state, dispatch] = useSiteContext();
-    console.log(state.page);
 
     return (
         <header className="bg-dark text-light d-flex flex-row" id="top">
@@ -37,7 +36,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="toggleMobileMenu">
                         <ul className="navbar-nav text-center">
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/examples" onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "examples" ? "bg-light text-dark" : ""}`} onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
                                         page: "examples"
@@ -46,7 +45,7 @@ const Header = () => {
                                 }>EXAMPLES</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/blogsandvlogs" onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "blogsandvlogs" ? "bg-light text-dark" : ""}`} to="/blogsandvlogs" onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
                                         page: "blogsandvlogs"
@@ -55,7 +54,7 @@ const Header = () => {
                                 }>BLOGS/VLOGS</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/books" onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "books" ? "bg-light text-dark" : ""}`} onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
                                         page: "books"
@@ -64,7 +63,7 @@ const Header = () => {
                                 }>BOOKS</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/articles" onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "articles" ? "bg-light text-dark" : ""}`} onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
                                         page: "articles"
@@ -73,7 +72,7 @@ const Header = () => {
                                 }>ARTICLES</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/glossary" onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "glossary" ? "bg-light text-dark" : ""}`} onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
                                         page: "glossary"
