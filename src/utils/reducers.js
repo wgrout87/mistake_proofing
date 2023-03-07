@@ -8,11 +8,14 @@ export const reducer = (state, action) => {
         case UPDATE_PAGE:
             return {
                 ...state,
-                page: [...action.page],
+                page: action.page,
             };
 
         default:
-            return state;
+            return {
+                ...state,
+                page: "/",
+            };
     }
 };
 

@@ -1,8 +1,9 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import Home from './pages/Home';
+import { SiteProvider } from './utils/GlobalState';
 
+import Home from './pages/Home';
 import Header from './components/Header';
 import Examples from './pages/Examples';
 import BlogsAndVlogs from './pages/BlogsAndVlogs';
@@ -14,15 +15,17 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Header />
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/examples' element={<Examples />} />
-          <Route path='/blogsandvlogs' element={<BlogsAndVlogs />} />
-          <Route path='/books' element={<Books />} />
-          <Route path='/articles' element={<Articles />} />
-          <Route path='/glossary' element={<Glossary />} />
-        </Routes>
+        <SiteProvider>
+          <Header />
+          <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/examples' element={<Examples />} />
+            <Route path='/blogsandvlogs' element={<BlogsAndVlogs />} />
+            <Route path='/books' element={<Books />} />
+            <Route path='/articles' element={<Articles />} />
+            <Route path='/glossary' element={<Glossary />} />
+          </Routes>
+        </SiteProvider>
       </Router>
     </div>
   );

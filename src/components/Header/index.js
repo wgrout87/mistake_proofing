@@ -1,11 +1,23 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { useSiteContext } from "../../utils/GlobalState";
+import { UPDATE_PAGE } from "../../utils/actions";
 
 const Header = () => {
+    const [state, dispatch] = useSiteContext();
+    console.log(state.page);
+
     return (
         <header className="bg-dark text-light d-flex flex-row" id="top">
             <div className="d-flex flex-row flex-wrap justify-content-lg-between w-100">
-                <Link className="navbar-brand text-decoration-none" to="/">
+                <Link className="navbar-brand text-decoration-none" to="/" onClick={() => {
+                    dispatch({
+                        type: UPDATE_PAGE,
+                        page: "/"
+                    })
+                    console.log(state.page);
+                }
+                }>
                     <h1 className="mx-4 my-3 text-start text-wrap">
                         John Grout's Mistake-Proofing Center
                     </h1>
