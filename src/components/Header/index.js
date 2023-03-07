@@ -5,7 +5,6 @@ import { UPDATE_PAGE } from "../../utils/actions";
 
 const Header = () => {
     const [state, dispatch] = useSiteContext();
-    console.log("hello world");
     useEffect(() => {
         dispatch({
             type: UPDATE_PAGE,
