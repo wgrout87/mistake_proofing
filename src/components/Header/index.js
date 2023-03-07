@@ -13,9 +13,8 @@ const Header = () => {
                 <Link className="navbar-brand text-decoration-none" to="/" onClick={() => {
                     dispatch({
                         type: UPDATE_PAGE,
-                        page: "/"
+                        page: "home"
                     })
-                    console.log(state.page);
                 }
                 }>
                     <h1 className="mx-4 my-3 text-start text-wrap">
@@ -38,19 +37,49 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="toggleMobileMenu">
                         <ul className="navbar-nav text-center">
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/examples">EXAMPLES</Link>
+                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/examples" onClick={() => {
+                                    dispatch({
+                                        type: UPDATE_PAGE,
+                                        page: "examples"
+                                    })
+                                }
+                                }>EXAMPLES</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/blogsandvlogs">BLOGS/VLOGS</Link>
+                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/blogsandvlogs" onClick={() => {
+                                    dispatch({
+                                        type: UPDATE_PAGE,
+                                        page: "blogsandvlogs"
+                                    })
+                                }
+                                }>BLOGS/VLOGS</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/books">BOOKS</Link>
+                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/books" onClick={() => {
+                                    dispatch({
+                                        type: UPDATE_PAGE,
+                                        page: "books"
+                                    })
+                                }
+                                }>BOOKS</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/articles">ARTICLES</Link>
+                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/articles" onClick={() => {
+                                    dispatch({
+                                        type: UPDATE_PAGE,
+                                        page: "articles"
+                                    })
+                                }
+                                }>ARTICLES</Link>
                             </li>
                             <li>
-                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/glossary">GLOSSARY</Link>
+                                <Link className="nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light" to="/glossary" onClick={() => {
+                                    dispatch({
+                                        type: UPDATE_PAGE,
+                                        page: "glossary"
+                                    })
+                                }
+                                }>GLOSSARY</Link>
                             </li>
                         </ul>
                     </div>

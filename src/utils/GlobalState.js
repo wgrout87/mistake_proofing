@@ -6,7 +6,7 @@ const { Provider } = SiteContext;
 
 const SiteProvider = ({ value = [], ...props }) => {
     const [state, dispatch] = useSiteReducer({
-        page: "/",
+        page: "home",
     });
 
     return <Provider value={[state, dispatch]} {...props} />;
