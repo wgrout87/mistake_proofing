@@ -1,11 +1,16 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { useSiteContext } from "../../utils/GlobalState";
 import { UPDATE_PAGE } from "../../utils/actions";
 
 const Header = () => {
     const [state, dispatch] = useSiteContext();
-    console.log(window.location.pathname);
+    useEffect(() => {
+        dispatch({
+            type: UPDATE_PAGE,
+            page: window.location.pathname
+        });
+    }, []);
 
     return (
         <header className="bg-dark text-light d-flex flex-row" id="top">
@@ -13,7 +18,7 @@ const Header = () => {
                 <Link className="navbar-brand text-decoration-none" to="/" onClick={() => {
                     dispatch({
                         type: UPDATE_PAGE,
-                        page: "/home"
+                        page: "/"
                     })
                 }
                 }>
