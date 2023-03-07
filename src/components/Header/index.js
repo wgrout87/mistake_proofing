@@ -5,6 +5,7 @@ import { UPDATE_PAGE } from "../../utils/actions";
 
 const Header = () => {
     const [state, dispatch] = useSiteContext();
+    console.log(window.location.pathname);
 
     return (
         <header className="bg-dark text-light d-flex flex-row" id="top">
@@ -12,7 +13,7 @@ const Header = () => {
                 <Link className="navbar-brand text-decoration-none" to="/" onClick={() => {
                     dispatch({
                         type: UPDATE_PAGE,
-                        page: "home"
+                        page: "/home"
                     })
                 }
                 }>
@@ -36,46 +37,46 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="toggleMobileMenu">
                         <ul className="navbar-nav text-center">
                             <li>
-                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "examples" ? "bg-light text-dark" : ""}`} onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "/examples" ? "bg-light text-dark" : ""}`} to="/examples" onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
-                                        page: "examples"
+                                        page: "/examples"
                                     })
                                 }
                                 }>EXAMPLES</Link>
                             </li>
                             <li>
-                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "blogsandvlogs" ? "bg-light text-dark" : ""}`} to="/blogsandvlogs" onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "/blogsandvlogs" ? "bg-light text-dark" : ""}`} to="/blogsandvlogs" onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
-                                        page: "blogsandvlogs"
+                                        page: "/blogsandvlogs"
                                     })
                                 }
                                 }>BLOGS/VLOGS</Link>
                             </li>
                             <li>
-                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "books" ? "bg-light text-dark" : ""}`} onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "/books" ? "bg-light text-dark" : ""}`} to="/books" onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
-                                        page: "books"
+                                        page: "/books"
                                     })
                                 }
                                 }>BOOKS</Link>
                             </li>
                             <li>
-                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "articles" ? "bg-light text-dark" : ""}`} onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "/articles" ? "bg-light text-dark" : ""}`} to="/articles" onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
-                                        page: "articles"
+                                        page: "/articles"
                                     })
                                 }
                                 }>ARTICLES</Link>
                             </li>
                             <li>
-                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "glossary" ? "bg-light text-dark" : ""}`} onClick={() => {
+                                <Link className={`nav-link btn btnForm rounded text-decoration-none px-4 m-1 text-light ${state.page === "/glossary" ? "bg-light text-dark" : ""}`} to="/glossary" onClick={() => {
                                     dispatch({
                                         type: UPDATE_PAGE,
-                                        page: "glossary"
+                                        page: "/glossary"
                                     })
                                 }
                                 }>GLOSSARY</Link>
