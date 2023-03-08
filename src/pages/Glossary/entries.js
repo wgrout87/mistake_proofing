@@ -586,60 +586,80 @@ var entries = [
         letter: "S",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "schema",
+                definition: "Knowledge structures that contain the general rules and information necessary for interpreting situations and for guiding behavior. Schema are sometimes thought of as \"subroutines\" that the human mind uses to control routine behavior, on \"autopilot.\" Skill-based cognitive control is accomplished using schema."
             },
             {
-                word: "",
-                definition: ""
+                word: "schemata",
+                definition: "Plural of schema"
             },
             {
-                word: "",
-                definition: ""
+                word: "self-checks",
+                definition: "Each operation assesses the quality of their own work using 100% inspection. Because they check every unit produced, they may be able to recognize what circumstances changed that caused the last unit to be defective. This insight is used to prevent further defects. The difference between successive checks and self-checks is who performs the inspection. For most situations, self-checks are preferred to successive checks."
             },
             {
-                word: "",
-                definition: ""
+                word: "semantic constraint",
+                definition: "Putting knowledge in the world using designs that rely on clues from the meaning of the situation"
             },
             {
-                word: "",
-                definition: ""
+                word: "sensors",
+                definition: "A device that responds to a particular stimulus and transmits a resulting impulse (Webster)."
             },
             {
-                word: "",
-                definition: ""
+                word: "sequencing poka-yokes",
+                definition: "\"Indicate, discourage, or prevent deviations from the order of steps in a process\" (Chase and Stewart). See also motion-step methods."
             },
             {
-                word: "",
-                definition: ""
+                word: "setting function",
+                definition: "The method used to detect errors or incorrect process parameters or product attributes. The setting function is linked to a regulatory function. See also contact methods, fixed-value methods, motion-step methods."
             },
             {
-                word: "",
-                definition: ""
+                word: "skill-based cognitive control",
+                definition: "Common activities in routine situations are handled at skill-based level of control, which operates with little conscious intervention. This is the domain of the action slip. See Schema."
             },
             {
-                word: "",
-                definition: ""
+                word: "skill-rule-knowledge framework",
+                definition: "The premise of Rasmussen's framework is that people switch among different levels of cognitive control when faced with different situations. Different tasks require different amounts of attention, training, and practice. Familiar tasks require less attention and are performed using skill-base cognitive control. Less familiar tasks utilize rule-based or knowledge-based cognitive control."
             },
             {
-                word: "",
-                definition: ""
+                word: "slip",
+                definition: "The result from skill-based behavior, when subconscious actions that are intended to satisfy a goal fail to result in the intended outcome."
             },
             {
-                word: "",
-                definition: ""
+                word: "source inspection",
+                definition: "Uses poka-yoke devices to detect improper operating conditions prior to actual production. Source inspection is preferred to informative inspection because remedial action can be taken before a defect is produced. See preemptive process inspection"
             },
             {
-                word: "",
-                definition: ""
+                word: "SPC",
+                definition: "See statistical process control"
             },
             {
-                word: "",
-                definition: ""
+                word: "SQC",
+                definition: "See statistical quality control"
             },
             {
-                word: "",
-                definition: ""
+                word: "SRK",
+                definition: "See skill-rule-knowledge framework"
+            },
+            {
+                word: "statistical process control",
+                definition: "An informative inspection technique that uses sampling and control charts to determine if production processes are stationary and to indicate when shifts or changes are likely to have occurred in the process."
+            },
+            {
+                word: "statistical quality control",
+                definition: "Term used by Shingo. Based on his usage, it includes most common statistical techniques for quality control: sampling, design of experiments and statistical process control. Shingo often uses statistical quality control as a synonym for statistical process control."
+            },
+            {
+                word: "stored action routines",
+                definition: "See schema"
+            },
+            {
+                word: "successive checks",
+                definition: "An operation performs 100% inspection of the work of the prior operation."
+            },
+            {
+                word: "surprise errors",
+                definition: "One of Nikkan Kogyo Shimbun (Factory Magazine) 10 types of errors. Error occurs when equipment runs differently than expected."
             },
         ]
     },
