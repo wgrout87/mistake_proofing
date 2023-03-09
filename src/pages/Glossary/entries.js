@@ -667,61 +667,17 @@ var entries = [
         letter: "T",
         words: [
             {
-                word: "",
-                definition: ""
+                word: "tools and jigs improperly prepared",
+                definition: "Number 10 of Nikkan Kogyo Shimbun (Factory Magazine) top 10 sources of defects"
             },
             {
-                word: "",
-                definition: ""
+                word: "type I error",
+                definition: "In statistical process control, incorrectly inferring the process is out of control when the process is actually in control. In hypothesis testing, incorrectly rejecting the null hypothesis."
             },
             {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
-            {
-                word: "",
-                definition: ""
-            },
+                word: "type II error",
+                definition: "In statistical process control, incorrectly inferring the process is in control when the process is actually out of control. In hypothesis testing, incorrectly failing to reject the null hypothesis."
+            }
         ]
     },
     {
