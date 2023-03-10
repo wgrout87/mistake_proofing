@@ -10,7 +10,7 @@ const Header = () => {
             type: UPDATE_PAGE,
             page: window.location.pathname
         });
-    }, []);
+    });
 
     return (
         <header className="bg-dark text-light d-flex flex-row" id="top">
